@@ -9,7 +9,8 @@ export async function verificarAutenticacao() {
       }
   
       // Define a URL do endpoint de autenticação
-      const url = "URL_DO_SEU_BACK_END_NA_VERCEL/auth";
+      const url = "proj21.vercel.app
+proj21-luane-goncalves-de-oliveiras-projects.vercel.app";
   
       // Faz uma requisição GET 
       const res = await fetch(url, {
